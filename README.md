@@ -8,5 +8,7 @@ Họ tên: Đặng Phương Nam
 
 
 MÔ TẢ:
-++ Console1( file BaiToanTinhLuong)
+
+
+-- Console1( file BaiToanTinhLuong)
 
