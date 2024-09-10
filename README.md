@@ -10,11 +10,14 @@ Họ tên: Đặng Phương Nam
 MÔ TẢ:
 
 
-++Console1( file BaiToanTinhLuong)
++Console1(BaiToanTinhLuong)
 
 
-++Chuyển phần xử lý sang DLL(ClassLabary1)
++Chuyển phần xử lý sang DLL(ClassLabary1)
 
 
-++Console2( dùng DLL, file Console2)
++Console2( dùng DLL,  Console2)
+
+
++Webv1(WebApplication1)
 
